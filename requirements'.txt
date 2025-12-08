@@ -1,0 +1,6 @@
+# requirements.txt content
+streamlit
+pandas
+numpy
+xgboost
+scikit-learn  # Needed for compatibility with XGBoost/pickle
