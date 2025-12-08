@@ -3,4 +3,4 @@ streamlit
 pandas
 numpy
 xgboost
-scikit-learn  # Needed for compatibility with XGBoost/pickle
+scikit-learn  <-- Make sure this is present!
