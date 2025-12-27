@@ -1,6 +1,4 @@
-# requirements.txt content
 streamlit
 pandas
+scikit-learn
 numpy
-xgboost
-scikit-learn  <-- Make sure this is present!
